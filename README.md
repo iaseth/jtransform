@@ -45,7 +45,10 @@ jtransform.toUpper("foo");    // "FOO"
 
 
 ## Dependencies
-This package has no dependencies.
+|     | `Package`   | `Version`   |
+| --- | ----------- | ----------- |
+| 1   | `whichtype` | `^1.0.2`    |
+
 
 
 ## Dev dependencies
