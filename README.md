@@ -36,7 +36,7 @@ jtransform.toUpper("foo");    // "FOO"
 | `Name`       | `Value`                                |
 | ------------ | -------------------------------------- |
 | `Name`       | `jtransform`                           |
-| `Version`    | `0.2.0`                                |
+| `Version`    | `0.3.0`                                |
 | `Author`     | `iaseth`                               |
 | `Homepage`   | `https://github.com/iaseth/jtransform` |
 | `Repository` | `iaseth/jtransform`                    |
