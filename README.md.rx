@@ -1,0 +1,40 @@
+
+# jtransform
+{{ npm.link("jtransform") }} is a small `JavaScript/TypeScript` library containing some of the most commonly used transforms, written in `TypeScript`.
+
+I felt the need for `jtransform` when I was working on {{ gh.link("iaseth/josn", "josn") }}.
+
+I am using {{ gh.link("iaseth/readmix", "readmix") }} for generating this README.
+You can view the source file [here](https://github.com/iaseth/jtransform/blob/master/README.md.rx).
+
+
+## Table of contents
+{{ tableOfContents(doc) }}
+
+
+## Installation
+You can install {{ "jtransform" | NpmLink }} with the following command:
+=> npm i jtransform
+Now you can import `jtransform` in your project as follows.
+=> const jtransform = require("jtransform");
+=> jtransform.toUpper("foo");    // "FOO"
+
+
+## Package details
+{{ npm.packageDetails() }}
+
+
+## Dependencies
+{{ npm.dependencyTable() }}
+
+
+## Dev dependencies
+{{ npm.devDependencyTable() }}
+
+
+## License
+{{ "LICENSE.md" | File }}
+
+
+{{ giveCredit() }}
+
