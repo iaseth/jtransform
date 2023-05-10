@@ -49,7 +49,11 @@ This package has no dependencies.
 
 
 ## Dev dependencies
-This package has no devDependencies.
+|     | `Package`     | `Version`   |
+| --- | ------------- | ----------- |
+| 1   | `@types/jest` | `^29.5.1`   |
+| 2   | `jest`        | `^29.5.0`   |
+
 
 
 ## License

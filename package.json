@@ -11,5 +11,9 @@
   "author": "iaseth",
   "homepage": "https://github.com/iaseth/jtransform",
   "repository": "iaseth/jtransform",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.1",
+    "jest": "^29.5.0"
+  }
 }
